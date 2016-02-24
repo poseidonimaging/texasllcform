@@ -51,7 +51,7 @@
 		}
 
 	strong, b {
-		font-weight: 400;
+		font-weight: 900;
 	}
 
 	p, ul, ol, dl, table, blockquote {
@@ -548,7 +548,8 @@
 		input[type="submit"].fit,
 		input[type="reset"].fit,
 		.button.fit {
-			width: 100%;
+			width: 75%;
+			background: #83d3c9;
 		}
 
 		input[type="button"].small,
