@@ -13,6 +13,7 @@
 	h2 {
 		font-size: 1.25em;
 		letter-spacing: 0.1em;
+		padding: 1.5em;
 	}
 
 	h3 {
@@ -134,7 +135,6 @@
 
 			#banner .inner header h2 {
 				font-size: 1.5em;
-				padding: 1.5em;
 			}
 
 			#banner .inner p {
