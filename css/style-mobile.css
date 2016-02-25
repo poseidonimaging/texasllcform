@@ -28,7 +28,6 @@
 
 	header {
 		text-align: center;
-		font-weight: 400;
 	}
 
 		header.major {
@@ -139,6 +138,7 @@
 
 			#banner .inner p {
 				text-align: left;
+				font-weight: 400;
 			}
 
 			#banner .inner br {
